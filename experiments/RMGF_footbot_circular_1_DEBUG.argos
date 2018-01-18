@@ -50,7 +50,7 @@
           controller.
     -->
     <RMGF_footbot_circular_controller id="fdc"
-                                  library="build2/controllers/RMGF_footbot_circular/Debug/libRMGF_footbot_circular">
+                                  library="build/controllers/RMGF_footbot_circular/Debug/libRMGF_footbot_circular">
       <!--
           The <actuators> section contains a list of the actuators used by
           this controller.
