@@ -1,8 +1,28 @@
 
 
 *.hmap
-build2/
-build/
+build*
+install
+doc/api
+.emacs.desktop*
+.cproject
+.project
+CMakeCache.txt
+CMakeFiles/
+CPackConfig.cmake
+CPackSourceConfig.cmake
+Doxyfile
+Makefile
+argos.SlackBuild
+argos3
+argos3.conf
+argos3_simulator.pc
+cmake_install.cmake
+doinst.sh
+slack-desc
+TAGS
+
+
 
 # Compiled source #
 ###################
@@ -41,12 +61,3 @@ build/
 .Trashes
 ehthumbs.db
 Thumbs.db
-build/argos3_examples.build/Debug/ALL_BUILD.build/dgph
-build/argos3_examples.build/Debug/ALL_BUILD.build/dgph
-build/argos3_examples.build/Debug/ALL_BUILD.build/dgph~
-build/argos3_examples.build/Debug/ALL_BUILD.build/dgph~
-build2_old/loop_functions/trajectory_loop_functions/CMakeScripts/trajectory_loop_functions_autogen_cmakeRulesBuildPhase.makeRelWithDebInfo
-build2_old/loop_functions/trajectory_loop_functions/CMakeScripts/trajectory_loop_functions_autogen_cmakeRulesBuildPhase.makeRelease
-build2_old/loop_functions/trajectory_loop_functions/CMakeFiles/trajectory_loop_functions_autogen.dir/AutogenOldSettings_Debug.cmake
-build2_old/loop_functions/trajectory_loop_functions/CMakeScripts/trajectory_loop_functions_autogen_cmakeRulesBuildPhase.makeDebug
-build2_old/loop_functions/trajectory_loop_functions/CMakeScripts/trajectory_loop_functions_autogen_cmakeRulesBuildPhase.makeMinSizeRel
