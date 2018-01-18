@@ -1,0 +1,52 @@
+
+
+*.hmap
+build2/
+build/
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+build/argos3_examples.build/Debug/ALL_BUILD.build/dgph
+build/argos3_examples.build/Debug/ALL_BUILD.build/dgph
+build/argos3_examples.build/Debug/ALL_BUILD.build/dgph~
+build/argos3_examples.build/Debug/ALL_BUILD.build/dgph~
+build2_old/loop_functions/trajectory_loop_functions/CMakeScripts/trajectory_loop_functions_autogen_cmakeRulesBuildPhase.makeRelWithDebInfo
+build2_old/loop_functions/trajectory_loop_functions/CMakeScripts/trajectory_loop_functions_autogen_cmakeRulesBuildPhase.makeRelease
+build2_old/loop_functions/trajectory_loop_functions/CMakeFiles/trajectory_loop_functions_autogen.dir/AutogenOldSettings_Debug.cmake
+build2_old/loop_functions/trajectory_loop_functions/CMakeScripts/trajectory_loop_functions_autogen_cmakeRulesBuildPhase.makeDebug
+build2_old/loop_functions/trajectory_loop_functions/CMakeScripts/trajectory_loop_functions_autogen_cmakeRulesBuildPhase.makeMinSizeRel

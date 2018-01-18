@@ -1,2 +1,0 @@
-#!/bin/sh
-make -C /Users/riccardoferrar/Documents/CLOUDS/Surfdrive/Documents/UNIV/PROJECTS/SURE/Code/ARGoS/argos3-examples/build/controllers/epuck_obstacleavoidance -f /Users/riccardoferrar/Documents/CLOUDS/Surfdrive/Documents/UNIV/PROJECTS/SURE/Code/ARGoS/argos3-examples/build/controllers/epuck_obstacleavoidance/CMakeScripts/epuck_obstacleavoidance_autogen_cmakeRulesBuildPhase.make$CONFIGURATION all

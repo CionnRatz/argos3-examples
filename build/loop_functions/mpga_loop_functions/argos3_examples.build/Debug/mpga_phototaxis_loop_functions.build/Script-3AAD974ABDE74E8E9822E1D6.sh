@@ -1,2 +1,0 @@
-#!/bin/sh
-make -C /Users/riccardoferrar/Documents/CLOUDS/Surfdrive/Documents/UNIV/PROJECTS/SURE/Code/ARGoS/argos3-examples/build/loop_functions/mpga_loop_functions -f /Users/riccardoferrar/Documents/CLOUDS/Surfdrive/Documents/UNIV/PROJECTS/SURE/Code/ARGoS/argos3-examples/build/loop_functions/mpga_loop_functions/CMakeScripts/mpga_phototaxis_loop_functions_postBuildPhase.make$CONFIGURATION all
