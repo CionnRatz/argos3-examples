@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "024B2489CB1430955E6D867E0A94910DCE89A25A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E71E3B06B3331C52BF8CC91F8F7102481E6388C3" : 9223372036854775807,
+    "024B2489CB1430955E6D867E0A94910DCE89A25A" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9C4C3948-3D84-4025-BEC0-E1A5433B7DC3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E71E3B06B3331C52BF8CC91F8F7102481E6388C3" : "argos3\/",
+    "024B2489CB1430955E6D867E0A94910DCE89A25A" : "argos3-examples\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "argos3_examples",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "build2\/argos3_examples.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ilpincy\/argos3-examples.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "024B2489CB1430955E6D867E0A94910DCE89A25A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ilpincy\/argos3.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E71E3B06B3331C52BF8CC91F8F7102481E6388C3"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../../argos3/build_Xcode/argos3_simulator.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "container:argos3_examples.xcodeproj">
+   </FileRef>
+</Workspace>

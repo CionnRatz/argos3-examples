@@ -1,0 +1,55 @@
+dependencies: \
+  /Users/riccardoferrar/Documents/CLOUDS/Surfdrive/Documents/UNIV/PROJECTS/SURE/Code/ARGoS/argos3-examples/loop_functions/custom_distributions_loop_functions/custom_distributions_loop_functions.cpp \
+  /Users/riccardoferrar/Documents/CLOUDS/Surfdrive/Documents/UNIV/PROJECTS/SURE/Code/ARGoS/argos3-examples/loop_functions/custom_distributions_loop_functions/custom_distributions_loop_functions.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/simulator/loop_functions.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/utility/configuration/base_configurable_resource.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/utility/configuration/argos_configuration.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/utility/datatypes/datatypes.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/config.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/utility/configuration/argos_exception.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/utility/configuration/tinyxml/ticpp.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/utility/configuration/tinyxml/tinyxml.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/utility/configuration/tinyxml/ticpprc.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/simulator/simulator.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/utility/math/rng.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/utility/math/angles.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/utility/math/general.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/utility/math/range.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/utility/string_utilities.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/simulator/physics_engine/physics_engine.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/utility/logging/argos_log.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/utility/logging/argos_colored_text.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/utility/math/ray2.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/utility/math/vector2.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/utility/plugins/factory.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/utility/plugins/factory_impl.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/simulator/medium/medium.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/simulator/space/space.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/utility/datatypes/any.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/simulator/space/positional_indices/positional_index.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/utility/datatypes/set.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/utility/math/vector3.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/simulator/entity/embodied_entity.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/simulator/entity/entity.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/utility/plugins/vtable.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/simulator/space/positional_indices/grid.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/utility/math/ray3.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/simulator/space/positional_indices/grid_impl.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/simulator/space/positional_indices/space_hash.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/utility/math/quaternion.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/simulator/physics_engine/physics_model.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/simulator/entity/controllable_entity.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/control_interface/ci_controller.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/control_interface/ci_sensor.h \
+  /usr/local/include/lua.h /usr/local/include/luaconf.h \
+  /usr/local/include/lualib.h /usr/local/include/lauxlib.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/control_interface/ci_actuator.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/utility/datatypes/color.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/plugins/simulator/entities/box_entity.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/simulator/entity/composable_entity.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/plugins/simulator/entities/led_equipped_entity.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/plugins/simulator/entities/led_entity.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/core/simulator/entity/positional_entity.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/plugins/simulator/entities/cylinder_entity.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/plugins/robots/foot-bot/simulator/footbot_entity.h \
+  /usr/local/Cellar/argos3/3.0.0-beta48/include/argos3/plugins/simulator/entities/wheeled_entity.h
